@@ -1,0 +1,17 @@
+{
+  "name": "love2d-ts-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "pnpx tstl -p tsconfig.json",
+    "test": "pnpx tstl -p tsconfig.json && love ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "love-typescript-definitions": "^0.24.1",
+    "typescript": "^4.6.3",
+    "typescript-to-lua": "^1.4.2"
+  }
+}

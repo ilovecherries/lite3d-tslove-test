@@ -1,0 +1,1 @@
+{ "compilerOptions": { "lib": ["ESNext"], "types": ["love-typescript-definitions", "typescript-to-lua/language-extensions"] }}
